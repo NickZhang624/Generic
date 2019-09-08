@@ -30,6 +30,9 @@ namespace ConsoleApp3
             id[2] = "zhang";
             Console.WriteLine(id[1] +" "+ id[2]);
 
+
+
+
         }
     }
 }
