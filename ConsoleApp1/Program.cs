@@ -6,6 +6,8 @@
  * 卖书的话就需要另外增加一个装书的盒子，那么问题来了，如果有一千种商品的话那就需要1000个商品的class，1000个装盒子的class，如下：
  * 
  * 用泛型去解决，重新声明一个泛型类 class Box<>
+ * 
+ * 泛型参数 type parameters
  */
 namespace ConsoleApp1
 {
