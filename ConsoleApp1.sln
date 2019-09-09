@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{5AEBA0B0-3F5B-4F99-B1EF-BEDAF4D91EE6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{2CC221FA-3B76-492B-9069-153C1229013D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample3", "ConsoleApp2\Sample3.csproj", "{2CC221FA-3B76-492B-9069-153C1229013D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample1", "ConsoleApp3\Sample1.csproj", "{67D6473F-445D-43BD-9340-AC8D5A7ECCC9}"
 EndProject
